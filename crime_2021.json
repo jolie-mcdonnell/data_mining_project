@@ -1,4 +1,0 @@
-{
-  "fields": [{"type":"text","id":"INCIDENT_NUMBER"},{"type":"text","id":"OFFENSE_CODE"},{"type":"text","id":"OFFENSE_CODE_GROUP"},{"type":"text","id":"OFFENSE_DESCRIPTION"},{"type":"text","id":"DISTRICT"},{"type":"text","id":"REPORTING_AREA"},{"type":"text","id":"SHOOTING"},{"type":"text","id":"OCCURRED_ON_DATE"},{"type":"text","id":"YEAR"},{"type":"text","id":"MONTH"},{"type":"text","id":"DAY_OF_WEEK"},{"type":"text","id":"HOUR"},{"type":"text","id":"UCR_PART"},{"type":"text","id":"STREET"},{"type":"text","id":"Lat"},{"type":"text","id":"Long"},{"type":"text","id":"Location"}],
-  "records": [
-]}
